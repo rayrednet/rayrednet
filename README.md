@@ -7,7 +7,7 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rayrednet)
 
-[![Ray's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayrednet)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ray's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayrednet&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### About Me
 Welcome to my GitHub! I'm Rayssa, but you can call me Ray. I'm a 21-year-old computer science student who is diving deep into the fascinating world of technology. Currently, I'm getting my hands dirty with machine learning and artificial intelligence. But, my tech journey doesn't stop there—I'm also exploring mobile and web programming, as well as computer networking, as part of my coursework. It’s all about learning as the tech evolves!
