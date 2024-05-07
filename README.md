@@ -1,4 +1,4 @@
-![Visitors](https://komarev.com/ghpvc/?username=rayrednet&color=violet)
+![Visitors](https://komarev.com/ghpvc/?username=rayrednet&color=blueviolet)
 
 
 ### Hi there, I'm Rayssa! 👋
