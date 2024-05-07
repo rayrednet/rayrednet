@@ -1,16 +1,13 @@
 ![Visitors](https://komarev.com/ghpvc/?username=rayrednet&color=blueviolet)
 
-
 ### Hi there, I'm Rayssa! 👋
 
-![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayrednet&show_icons=true&theme=radical)
-
+![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayrednet&show_icons=true&theme=tokyonight)
 
 #### About Me
 Welcome to my GitHub! I'm Rayssa, but you can call me Ray. I'm a 21-year-old computer science student who is diving deep into the fascinating world of technology. Currently, I'm getting my hands dirty with machine learning and artificial intelligence. But, my tech journey doesn't stop there—I'm also exploring mobile and web programming, as well as computer networking, as part of my coursework. It’s all about learning as the tech evolves!
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rayrednet)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=rayrednet&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15)
 
 #### 🌱 Projects
 Here are a couple of projects I’ve worked on:
@@ -20,18 +17,16 @@ Here are a couple of projects I’ve worked on:
 - **FuelWise: ML-Powered Vehicle Subsidy Eligibility App**  
   This cutting-edge app leverages machine learning to evaluate vehicle compliance for subsidy eligibility. I was involved in developing user-friendly interfaces, integrating machine learning models, and ensuring our application adhered to strict government regulations.
 
-[![Ray's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayrednet&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ray's github activity graph](https://activity-graph.herokuapp.com/graph?username=rayrednet&theme=xcode&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### 👩‍💻 Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayrednet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayrednet&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Programming Languages**: C, C++, Python, Java
 - **Web Technologies**: HTML, PHP, Flutter
 - **Database Management**: SQL
 - **And more...**
-
 
 #### 🎯 My Goals
 My current goal is simple: to keep exploring and learning about the latest advancements in technology. I believe that staying curious and engaged with new technologies is key to growing as a developer.
