@@ -17,12 +17,13 @@ Here are a couple of projects I’ve worked on:
   This cutting-edge app leverages machine learning to evaluate vehicle compliance for subsidy eligibility. I was involved in developing user-friendly interfaces, integrating machine learning models, and ensuring our application adhered to strict government regulations.
 
 #### 👩‍💻 Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayrednet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - **Programming Languages**: C, C++, Python, Java
 - **Web Technologies**: HTML, PHP, Flutter
 - **Database Management**: SQL
 - **And more...**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayrednet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### 🎯 My Goals
