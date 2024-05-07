@@ -22,6 +22,9 @@ Here are a couple of projects I’ve worked on:
 - **Database Management**: SQL
 - **And more...**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayrednet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 #### 🎯 My Goals
 My current goal is simple: to keep exploring and learning about the latest advancements in technology. I believe that staying curious and engaged with new technologies is key to growing as a developer.
 
