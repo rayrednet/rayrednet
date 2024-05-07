@@ -1,9 +1,9 @@
 ![Visitors](https://komarev.com/ghpvc/?username=rayrednet&color=blueviolet)
 
+### Hi there, I'm Rayssa! 👋
+
 ![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayrednet&show_icons=true&theme=radical)
 
-
-### Hi there, I'm Rayssa! 👋
 
 #### About Me
 Welcome to my GitHub! I'm Rayssa, but you can call me Ray. I'm a 21-year-old computer science student who is diving deep into the fascinating world of technology. Currently, I'm getting my hands dirty with machine learning and artificial intelligence. But, my tech journey doesn't stop there—I'm also exploring mobile and web programming, as well as computer networking, as part of my coursework. It’s all about learning as the tech evolves!
