@@ -1,5 +1,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=rayrednet&color=blueviolet)
 
+![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayrednet&show_icons=true&theme=radical)
+
 
 ### Hi there, I'm Rayssa! 👋
 
