@@ -17,7 +17,7 @@ Here are a couple of projects I’ve worked on:
 - **FuelWise: ML-Powered Vehicle Subsidy Eligibility App**  
   This cutting-edge app leverages machine learning to evaluate vehicle compliance for subsidy eligibility. I was involved in developing user-friendly interfaces, integrating machine learning models, and ensuring our application adhered to strict government regulations.
 
-[![Ray's github activity graph](https://activity-graph.herokuapp.com/graph?username=rayrednet&theme=xcode&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ray's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayrednet&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### 👩‍💻 Skills
 
