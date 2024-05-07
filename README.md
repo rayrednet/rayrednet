@@ -1,10 +1,13 @@
 ![Visitors](https://komarev.com/ghpvc/?username=rayrednet&color=blueviolet)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rayrednet)
 
 ### Hi there, I'm Rayssa! 👋
 
 ![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayrednet&show_icons=true&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rayrednet)
+
+[![Ray's github activity graph](https://activity-graph.herokuapp.com/graph?username=rayrednet&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 #### About Me
