@@ -36,4 +36,4 @@ Just to keep checking out and learning the latest tech stuff. I think staying cu
 - **Email**: [rayssaravelia12@gmail.com](mailto:rayssaravelia12@gmail.com)
 
 #### 🎈 Fun Fact
-While I don't stick to many hobbies due to getting bored easily, I do enjoy listening to music, binge-watching Netflix, hitting the gym, and occasionally playing Valorant. Always up for a good challenge and a fun time!
+While I don't stick to many hobbies due to getting bored easily, uhmm... I do enjoy listening to music, binge-watching Netflix, hitting the gym, oh and.. occasionally playing Valorant. Always up for a good challenge and a fun time!
