@@ -1,3 +1,6 @@
+![Visitors](https://komarev.com/ghpvc/?username=rayrednet&color=blue)
+
+
 ### Hi there, I'm Rayssa! 👋
 
 #### About Me
