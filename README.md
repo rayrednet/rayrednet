@@ -7,7 +7,7 @@
 ![Ray's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rayrednet&theme=tokyonight&hide_border=true)
 
 #### About Me
-Welcome to my GitHub! I'm Rayssa, but you can call me Ray. I'm a 21-year-old computer science student currently immersed in the fascinating world of machine learning and AI. My journey in tech also includes exploring mobile and web programming, along with computer networking—all part of my ongoing coursework. It's an ever-evolving field, and I'm here to learn and adapt as new technologies emerge. Glad you stopped by!
+Welcome to my GitHub! I'm Rayssa, but you can call me Ray. I'm a computer science student currently immersed in the fascinating world of machine learning and AI. My journey in tech also includes exploring mobile and web programming, along with computer networking—all part of my ongoing coursework. It's an ever-evolving field, and I'm here to learn and adapt as new technologies emerge. Glad you stopped by!
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rayrednet&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15)
 
